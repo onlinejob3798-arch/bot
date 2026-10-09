@@ -1,0 +1,6 @@
+{
+  "name": "YUZEFA Kombat - Telegram Mini App",
+  "description": "Premium dark navy and purple neon Telegram Mini App with Monetag ads (Zone 10195941), wallet, referrals, withdrawals, and Firebase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
